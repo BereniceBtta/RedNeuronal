@@ -1,0 +1,19 @@
+D:\Usuarios\Cesar\Desktop\ProyectoVisual\RedNeuronal\RedNeuronal\bin\Debug\RedNeuronal.exe.config
+D:\Usuarios\Cesar\Desktop\ProyectoVisual\RedNeuronal\RedNeuronal\bin\Debug\RedNeuronal.exe
+D:\Usuarios\Cesar\Desktop\ProyectoVisual\RedNeuronal\RedNeuronal\bin\Debug\RedNeuronal.pdb
+D:\Usuarios\Cesar\Desktop\ProyectoVisual\RedNeuronal\RedNeuronal\obj\Debug\RedNeuronal.Form1.resources
+D:\Usuarios\Cesar\Desktop\ProyectoVisual\RedNeuronal\RedNeuronal\obj\Debug\RedNeuronal.Properties.Resources.resources
+D:\Usuarios\Cesar\Desktop\ProyectoVisual\RedNeuronal\RedNeuronal\obj\Debug\RedNeuronal.csproj.GenerateResource.Cache
+D:\Usuarios\Cesar\Desktop\ProyectoVisual\RedNeuronal\RedNeuronal\obj\Debug\RedNeuronal.exe
+D:\Usuarios\Cesar\Desktop\ProyectoVisual\RedNeuronal\RedNeuronal\obj\Debug\RedNeuronal.pdb
+D:\Usuarios\Cesar\Desktop\ProyectoVisual\RedNeuronal\RedNeuronal\obj\Debug\RedNeuronal.csprojAssemblyReference.cache
+D:\Usuarios\Cesar\Desktop\ProyectoVisual\RedNeuronal\RedNeuronal\obj\Debug\RedNeuronal.csproj.CoreCompileInputs.cache
+F:\8o semestre\IA\ProyectoFinal\RedNeuronal\RedNeuronal\bin\Debug\RedNeuronal.exe.config
+F:\8o semestre\IA\ProyectoFinal\RedNeuronal\RedNeuronal\obj\Debug\RedNeuronal.exe
+F:\8o semestre\IA\ProyectoFinal\RedNeuronal\RedNeuronal\obj\Debug\RedNeuronal.pdb
+F:\8o semestre\IA\ProyectoFinal\RedNeuronal\RedNeuronal\bin\Debug\RedNeuronal.exe
+F:\8o semestre\IA\ProyectoFinal\RedNeuronal\RedNeuronal\bin\Debug\RedNeuronal.pdb
+F:\8o semestre\IA\ProyectoFinal\RedNeuronal\RedNeuronal\obj\Debug\RedNeuronal.csprojResolveAssemblyReference.cache
+F:\8o semestre\IA\ProyectoFinal\RedNeuronal\RedNeuronal\obj\Debug\RedNeuronal.Form1.resources
+F:\8o semestre\IA\ProyectoFinal\RedNeuronal\RedNeuronal\obj\Debug\RedNeuronal.Properties.Resources.resources
+F:\8o semestre\IA\ProyectoFinal\RedNeuronal\RedNeuronal\obj\Debug\RedNeuronal.csproj.GenerateResource.Cache
